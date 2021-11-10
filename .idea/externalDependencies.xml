@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="AntSupport" />
+    <plugin id="Atlassian Connector for IntelliJ IDE" />
+    <plugin id="BashSupport" />
+    <plugin id="Batch Scripts Support" />
+    <plugin id="ByteCodeViewer" />
+    <plugin id="CMD Support" />
+    <plugin id="CVS" />
+    <plugin id="DBN" />
+    <plugin id="FrameSwitcher" />
+    <plugin id="Git4Idea" />
+    <plugin id="GrepConsole" />
+    <plugin id="JUnit" />
+    <plugin id="LivePlugin" />
+    <plugin id="PlantUML integration" />
+    <plugin id="Shifter" />
+    <plugin id="String Manipulation" />
+    <plugin id="Subversion" />
+    <plugin id="com.github.b3er.idea.plugins.arc.browser" />
+    <plugin id="com.kukido.eclipser" />
+    <plugin id="com.steve.plugins.autoscroll" />
+    <plugin id="de.endrullis.idea.postfixtemplates" />
+    <plugin id="de.santiv.fastscrolling" />
+    <plugin id="mobi.hsz.idea.gitignore" />
+    <plugin id="org.intellij.intelliLang" />
+    <plugin id="org.jetbrains.debugger.streams" />
+    <plugin id="org.jetbrains.idea.eclipse" />
+    <plugin id="org.jetbrains.idea.maven" />
+    <plugin id="org.jetbrains.java.decompiler" />
+    <plugin id="org.jetbrains.kotlin" />
+    <plugin id="org.jetbrains.plugins.gradle" />
+    <plugin id="org.jetbrains.plugins.javaFX" />
+    <plugin id="org.jetbrains.plugins.yaml" />
+    <plugin id="org.jetbrains.settingsRepository" />
+    <plugin id="org.sonarlint.idea" />
+    <plugin id="zielu.svntoolbox" />
+  </component>
+</project>
