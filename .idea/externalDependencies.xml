@@ -22,6 +22,7 @@
     <plugin id="com.github.b3er.idea.plugins.arc.browser" />
     <plugin id="com.kukido.eclipser" />
     <plugin id="com.steve.plugins.autoscroll" />
+    <plugin id="com.tang" />
     <plugin id="com.thvardhan.gradianto" />
     <plugin id="de.endrullis.idea.postfixtemplates" />
     <plugin id="de.santiv.fastscrolling" />
