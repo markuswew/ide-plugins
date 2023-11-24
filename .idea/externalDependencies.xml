@@ -6,7 +6,6 @@
     <plugin id="BashSupport" />
     <plugin id="Batch Scripts Support" />
     <plugin id="ByteCodeViewer" />
-    <plugin id="CMD Support" />
     <plugin id="CVS" />
     <plugin id="Coverage" />
     <plugin id="DBN" />
@@ -19,7 +18,6 @@
     <plugin id="PlantUML integration" />
     <plugin id="Shifter" />
     <plugin id="String Manipulation" />
-    <plugin id="Subversion" />
     <plugin id="XPathView" />
     <plugin id="cn.yiiguxing.plugin.translate" />
     <plugin id="com.fwdekker.randomness" />
@@ -32,6 +30,7 @@
     <plugin id="com.intellij.properties.bundle.editor" />
     <plugin id="com.intellij.searcheverywhere.ml" />
     <plugin id="com.jetbrains.codeWithMe" />
+    <plugin id="com.julienphalip.jvmdefaultoptions" />
     <plugin id="com.kukido.eclipser" />
     <plugin id="com.microsoft.vso.idea" />
     <plugin id="com.steve.plugins.autoscroll" />
