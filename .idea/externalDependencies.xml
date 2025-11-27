@@ -8,8 +8,6 @@
     <plugin id="ByteCodeViewer" />
     <plugin id="CVS" />
     <plugin id="Coverage" />
-    <plugin id="DBN" />
-    <plugin id="FrameSwitcher" />
     <plugin id="Git4Idea" />
     <plugin id="Gitflow-Fix" />
     <plugin id="GrepConsole" />
@@ -31,14 +29,11 @@
     <plugin id="com.intellij.searcheverywhere.ml" />
     <plugin id="com.jetbrains.codeWithMe" />
     <plugin id="com.julienphalip.jvmdefaultoptions" />
-    <plugin id="com.kukido.eclipser" />
     <plugin id="com.microsoft.vso.idea" />
     <plugin id="com.steve.plugins.autoscroll" />
-    <plugin id="com.tang" />
     <plugin id="com.thvardhan.gradianto" />
     <plugin id="de.endrullis.idea.postfixtemplates" />
     <plugin id="de.santiv.fastscrolling" />
-    <plugin id="https://github.com/DUNNIK" />
     <plugin id="mobi.hsz.idea.gitignore" />
     <plugin id="org.asciidoctor.intellij.asciidoc" />
     <plugin id="org.intellij.intelliLang" />
